@@ -1,5 +1,5 @@
 # Victorgonl - Knight's Tour Puzzle - 20211218
-# Knight's_Tour_Puzzle.py
+# KnightsTourPuzzle.py
 
 
 class Position:
